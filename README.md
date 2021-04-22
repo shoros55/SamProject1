@@ -8,5 +8,7 @@ How to start the app:
 Open R
 
 install.packages('shiny')
+
 library(shiny)
+
 shiny::runGitHub("SamProject1", "shoros55")
