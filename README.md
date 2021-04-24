@@ -3,12 +3,10 @@ My project is called SamProject.  It is a user friendly, streamlined program des
 
 runGitHub("SamProject1", "shoros55")
 
-How to start the app:
+# How to start the app:
+Please use the below link to launch the App.  
+After launching the webapp, first select your desired region.  Then select the desired plant and size and click 'Enter' to search for nurseries with seasonal availability.
 
-Open R
+# ShinyApp.io Link
 
-install.packages("shiny")
-
-library(shiny)
-
-shiny::runGitHub("SamProject1", "shoros55")
+https://shoros55.shinyapps.io/SamProject/
