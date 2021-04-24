@@ -3,9 +3,18 @@ My project is called SamProject.  It is a user friendly, streamlined program des
 
 runGitHub("SamProject1", "shoros55")
 
+library(shiny)
+
+shiny::runGitHub("SamProject1", "shoros55")
+
 # How to start the app:
 Please use the link below to launch the App.  
 After launching the webapp, first select your desired region.  Then select the desired plant and size and click 'Enter' to search for nurseries with seasonal availability.
+For example select the radio button labeled "Miami-Dade"
+Then select "Aglo (Siam)" for plant.
+Then select "10"" for plant size.
+Then click "Enter".
+The results of your search will populate under the heading "Availability" in the main panel.
 
 # ShinyApp.io Link
 
