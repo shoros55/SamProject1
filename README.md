@@ -10,6 +10,8 @@ shiny::runGitHub("SamProject1", "shoros55")
 # How to start the app:
 Please use the link below to launch the App.  
 After launching the webapp, first select your desired region.  Then select the desired plant and size and click 'Enter' to search for nurseries with seasonal availability.<br />
+
+# Tutorial:
 For example select the radio button labeled "Miami-Dade".<br />
 Then select "Aglo (Siam)" for plant.<br />
 Then select "10"" for plant size.<br />
