@@ -6,7 +6,7 @@ library(shiny)
 shiny::runGitHub("SamProject1", "shoros55", ref="main")
 
 # How to start the app:
-Enter the following code into your Rstudio console to launch the app:
+Enter the following code into your Rstudio console to launch the app:<br />
 library(shiny)
 
 shiny::runGitHub("SamProject1", "shoros55", ref="main") <br />
