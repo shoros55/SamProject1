@@ -5,7 +5,7 @@ runGitHub("SamProject1", "shoros55")
 
 library(shiny)
 
-shiny::runGitHub("SamProject1", "shoros55")
+shiny::runGitHub("SamProject1", "shoros55", ref="main")
 
 # How to start the app:
 Please use the link below to launch the App.  
