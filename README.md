@@ -11,7 +11,7 @@ library(shiny)
 
 shiny::runGitHub("SamProject1", "shoros55", ref="main") <br />
 <br />
-Alternatively you can use the shinyapp.io link below to launch the App in your browser or smartphone.  <br />
+Alternatively you can use the shinyapp.io link at the bottom of this page to launch the App in your browser or smartphone.  <br />
 
 # Tutorial:
 To use the app: <br />
