@@ -16,20 +16,21 @@ Alternatively you can use the shinyapp.io link below to launch the App in your b
 # Tutorial:
 To use the app: <br />
 Use the First Tab labeled "Interior Plants Nursery Supply Availability" to search for specific plant availability: <br />
-For example select the Region radio button labeled "Miami-Dade".<br />
-Then select "Aglo (Siam)" in the drop down menu.<br />
-Then select "10"" in the drop down menu.<br />
-Then click "Enter".<br />
+1.) For example select the Region radio button labeled "Miami-Dade".<br />
+2.) Then select "Aglo (Siam)" in the drop down menu.<br />
+3.) Then select "10"" in the drop down menu.<br />
+4.) Then click "Enter".<br />
 The results of your search will populate under the heading "Availability" in the main panel.<br />
 <br />
 Now try again for Region "Palm Beach". (Availability is much more limited here, so begin with the following search):<br />
-First select the Region radio button labeled "Palm Beach."<br />
-Select "Adonidia Palm (Single)" in the drop down menu.<br />
-Select "14"" in the drop down menu.<br />
-Click "Enter". <br />
+1.) First select the Region radio button labeled "Palm Beach."<br />
+2.) Select "Adonidia Palm (Single)" in the drop down menu.<br />
+3.) Select "14"" in the drop down menu.<br />
+4.) Click "Enter". <br />
 <br />
-Now Navigate to the Second Tab labeled "Overall Availability by Nursery" by clicking that tab at the top of the page. <br />
-Next select the desired region by clicking that radio button. <br />
+Now Navigate to the Second Tab labeled "Overall Availability by Nursery".<br />
+1.) Do this by clicking that tab at the top of the page. <br />
+2.) Next select the desired region by clicking that radio button. <br />
 The bar chart displaying that region's nurseries will populate in the main panel displaying what percentage of the overall plant types are available at their location during the current season.
 
 # ShinyApp.io Link
