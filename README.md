@@ -17,7 +17,7 @@ Alternatively you can use the shinyapp.io link at the bottom of this page to lau
 To use the app: <br />
 Use the First Tab labeled "Interior Plants Nursery Supply Availability" to search for specific plant availability: <br />
 1.) For example select the Region radio button labeled "Miami-Dade".<br />
-2.) Then select "Aglo (Siam)" in the drop down menu (the plants are in alphabetical order by type).<br />
+2.) Then select "Aglo (Mary Ann/Maria)" in the drop down menu (the plants are in alphabetical order by type).<br />
 3.) Then select "10"" in the drop down menu.<br />
 4.) Then click "Enter".<br />
 The results of your search will populate under the heading "Availability" in the main panel.<br />
@@ -25,8 +25,8 @@ As well as the regression model will update with that particular plant's expecte
 <br />
 Now try again for Region "Palm Beach". (Availability is much more limited here, so begin with the following search):<br />
 1.) First select the Region radio button labeled "Palm Beach."<br />
-2.) Select "Mass Cane" in the drop down menu.<br />
-3.) Select "14"" in the drop down menu.<br />
+2.) Select "Aglo (Mary Ann/Maria)" in the drop down menu.<br />
+3.) Select "10"" in the drop down menu.<br />
 4.) Click "Enter". <br />
 <br />
 Now Navigate to the Second Tab labeled "Overall Availability by Nursery".<br />
