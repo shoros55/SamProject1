@@ -33,7 +33,16 @@ Now Navigate to the Second Tab labeled "Overall Availability by Nursery".<br />
 1.) Do this by clicking the furthest right tab at the top of the page labeled "Overall Availability by Nursery". <br />
 2.) Next select the desired region by clicking that radio button. <br />
 3.) Click "GO!"
-The bar chart displaying that region's nurseries will update in the main panel displaying what percentage of the overall plant varieties are available at their location during the current season. In order to optimize plant pick up, the user should consider ordering plants from the nursery with the most availability.
+The bar chart displaying that region's nurseries will update in the main panel displaying what percentage of the overall plant varieties are available at their location during the current season. In order to optimize plant pick up, the user should consider ordering plants from the nursery with the most availability.<br />
+<br />
+For further examples I recommend the following plant queries with "10"" size on the first tab under "Miami-Dade" region:<br />
+"Aglo (Silver Bay)"<br />
+"Art"<br />
+"Green Jewel"<br />
+"Janet Craig"<br />
+"JC Compacta"<br />
+"Marginata (Cut-Back)"<br />
+"Mass Cane"<br />
 
 # ShinyApp.io Link
 
