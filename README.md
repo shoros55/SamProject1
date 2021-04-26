@@ -32,6 +32,7 @@ Now try again for Region "Palm Beach". (Availability is much more limited here, 
 Now Navigate to the Second Tab labeled "Overall Availability by Nursery".<br />
 1.) Do this by clicking the furthest right tab at the top of the page labeled "Overall Availability by Nursery". <br />
 2.) Next select the desired region by clicking that radio button. <br />
+3.) Click "GO!"
 The bar chart displaying that region's nurseries will update in the main panel displaying what percentage of the overall plant varieties are available at their location during the current season. In order to optimize plant pick up, the user should consider ordering plants from the nursery with the most availability.
 
 # ShinyApp.io Link
