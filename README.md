@@ -1,5 +1,5 @@
 # PlantsAvailabilities
-My project is called PlantsAvailabilities.  It is a user friendly, streamlined program designed to be used by my work at an interior plant leasing company.  This App's function is to be able to call on local plant availability database for ordering purposes, as well as regression analysis of expected price per plant by size, and bar plot of percentage of availability by region.  The user can search for the specific plant and size desired and quickly return a list of nurseries with availability.
+My project is called PlantsAvailabilities.  It is a user friendly, streamlined program designed to be used at the interior plant leasing company where I work.  This App's function is to be able to call on local plant availability database for ordering purposes, as well as regression analysis of expected price per plant by size, and bar plot of percentage of availability by region.  The user can search for the specific plant and size desired and quickly return a list of nurseries with availability.
 
 library(shiny)
 
@@ -33,7 +33,7 @@ Now Navigate to the Second Tab labeled "Overall Availability by Nursery".<br />
 1.) Do this by clicking the furthest right tab at the top of the page labeled "Overall Availability by Nursery". <br />
 2.) Next select the desired region by clicking that radio button. <br />
 3.) Click "GO!"
-The bar chart displaying that region's nurseries will update in the main panel displaying what percentage of the overall plant varieties are available at their location during the current season. In order to optimize plant pick up, the user should consider ordering plants from the nursery with the most availability.<br />
+The bar chart displaying that region's nurseries will update in the main panel displaying what percentage of the overall plant varieties are available at that location during the current season. In order to optimize plant pick up, the user should consider ordering plants from the nursery with the most availability.<br />
 <br />
 For further examples I recommend the following plant queries on the first tab under "Miami-Dade" region with "10"" size :<br />
 "Aglo (Silver Bay)"<br />
